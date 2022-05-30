@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "life.h"
 
 int meaningOfLife() {
   return 42;
